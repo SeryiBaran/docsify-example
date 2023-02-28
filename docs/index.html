@@ -13,11 +13,18 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      basePath: "/docsify-example/",
+      relativePath: true,
       name: 'Тест Docsify',
       repo: '',
       loadSidebar: true,
-      coverpage: true
+      // mergeNavbar: true,
+      // maxLevel: 4,
+      // subMaxLevel: 2,
+      auto2top: true,
+      coverpage: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
     }
   </script>
   <!-- Docsify v4 -->

@@ -2,7 +2,6 @@
 
 [Источник](https://github.com/emn178/markdown)
 
-# Markdown
 A markdown example shows how to write a markdown file. This document integrates core syntax and extensions (GMF).
 
 * [Block Elements](#block-elements)
@@ -74,10 +73,10 @@ Code:
     -------------
 Preview:
 ***
-This is an H1
+This is an H1 <!-- {docsify-ignore} -->
 =============
 
-This is an H2
+This is an H2 <!-- {docsify-ignore} -->
 -------------
 ***
 #### atx
@@ -92,9 +91,9 @@ Code:
     ###### This is an H6
 Preview:
 ***
-# This is an H1
-## This is an H2
-###### This is an H6
+# This is an H1 <!-- {docsify-ignore} -->
+## This is an H2 <!-- {docsify-ignore} -->
+###### This is an H6 <!-- {docsify-ignore} -->
 ***
 Optionally, you may “close” atx-style headers. The closing hashes **don’t need to match** the number of hashes used to open the header.
 
@@ -105,9 +104,9 @@ Code:
     ### This is an H3 ######
 Preview:
 ***
-# This is an H1 #
-## This is an H2 ##
-### This is an H3 ######
+# This is an H1 # <!-- {docsify-ignore} -->
+## This is an H2 ## <!-- {docsify-ignore} -->
+### This is an H3 ###### <!-- {docsify-ignore} -->
 ***
 
 ### Blockquotes
@@ -185,7 +184,7 @@ Code:
     >     return shell_exec("echo $input | $markdown_script");
 Preview:
 ***
-> ## This is a header.
+> ## This is a header. <!-- {docsify-ignore} -->
 > 
 > 1.   This is the first list item.
 > 2.   This is the second list item.
