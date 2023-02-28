@@ -1,0 +1,5 @@
+* [Главная](/)
+  * [Тест Markdown](/posts/md-test)
+  * [Lorem ipsum](/posts/lorem)
+  * [Очень длинный Lorem ipsum](/posts/super-long-lorem)
+  * [Тест эмодзи](/posts/emoji)
