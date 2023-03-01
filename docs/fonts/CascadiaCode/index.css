@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('CascadiaCode-Regular.eot');
+    src: url('CascadiaCode-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaCode-Regular.woff2') format('woff2'),
+        url('CascadiaCode-Regular.woff') format('woff'),
+        url('CascadiaCode-Regular.ttf') format('truetype'),
+        url('CascadiaCode-Regular.svg#CascadiaCode-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('CascadiaCode-Italic.eot');
+    src: url('CascadiaCode-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaCode-Italic.woff2') format('woff2'),
+        url('CascadiaCode-Italic.woff') format('woff'),
+        url('CascadiaCode-Italic.ttf') format('truetype'),
+        url('CascadiaCode-Italic.svg#CascadiaCode-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Code PL';
+    src: url('CascadiaCodePL-Regular.eot');
+    src: url('CascadiaCodePL-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaCodePL-Regular.woff2') format('woff2'),
+        url('CascadiaCodePL-Regular.woff') format('woff'),
+        url('CascadiaCodePL-Regular.ttf') format('truetype'),
+        url('CascadiaCodePL-Regular.svg#CascadiaCodePL-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Code PL';
+    src: url('CascadiaCodePL-Italic.eot');
+    src: url('CascadiaCodePL-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaCodePL-Italic.woff2') format('woff2'),
+        url('CascadiaCodePL-Italic.woff') format('woff'),
+        url('CascadiaCodePL-Italic.ttf') format('truetype'),
+        url('CascadiaCodePL-Italic.svg#CascadiaCodePL-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Mono';
+    src: url('CascadiaMono-Regular.eot');
+    src: url('CascadiaMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaMono-Regular.woff2') format('woff2'),
+        url('CascadiaMono-Regular.woff') format('woff'),
+        url('CascadiaMono-Regular.ttf') format('truetype'),
+        url('CascadiaMono-Regular.svg#CascadiaMono-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Mono PL';
+    src: url('CascadiaMonoPL-Regular.eot');
+    src: url('CascadiaMonoPL-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaMonoPL-Regular.woff2') format('woff2'),
+        url('CascadiaMonoPL-Regular.woff') format('woff'),
+        url('CascadiaMonoPL-Regular.ttf') format('truetype'),
+        url('CascadiaMonoPL-Regular.svg#CascadiaMonoPL-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Mono';
+    src: url('CascadiaMono-Italic.eot');
+    src: url('CascadiaMono-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaMono-Italic.woff2') format('woff2'),
+        url('CascadiaMono-Italic.woff') format('woff'),
+        url('CascadiaMono-Italic.ttf') format('truetype'),
+        url('CascadiaMono-Italic.svg#CascadiaMono-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cascadia Mono PL';
+    src: url('CascadiaMonoPL-Italic.eot');
+    src: url('CascadiaMonoPL-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CascadiaMonoPL-Italic.woff2') format('woff2'),
+        url('CascadiaMonoPL-Italic.woff') format('woff'),
+        url('CascadiaMonoPL-Italic.ttf') format('truetype'),
+        url('CascadiaMonoPL-Italic.svg#CascadiaMonoPL-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
